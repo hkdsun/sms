@@ -1,0 +1,4 @@
+default_clients:
+  - name: 'dev'
+    callback_url: 'http://localhost:4568'
+    callback_port: '80'
